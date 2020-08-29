@@ -1,6 +1,6 @@
 ### Stuff I've made
 Satire Mods
- - goodmod, now removed from the tModLoader modbrowser because passphrase shenanigens
+ - goodmod, now removed from the tModLoader modbrowser because passphrase shenanigans
  - Darkness Unbound, a WIP content bloated mod
  
 Serious(?) Mods
